@@ -4,7 +4,12 @@
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on [minetest](https://github.com/minetest/minetest)
 - 💬 Ask me about lua
-- 📫 How to reach me: **AFCM#9333** on Discord, **afcm.contact@gmail.com**
+- 📫 How to reach me:
+  - Discord: **AFCM#9333**
+  - Mastodon: **[@AFCM@mastodon.social](https://mastodon.social/web/accounts/106993231703412486)**
+  - YouTube: **[AFCM](https://www.youtube.com/channel/UCK0mMW2SlIb7X5pKi00ZcYw)**
+  - Reddit: **[u/AFCMS](https://www.reddit.com/user/AFCMS)**
+  - Mail: **afcm.contact@gmail.com**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am not funny 🤣
 
