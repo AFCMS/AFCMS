@@ -6,6 +6,7 @@
 - 💬 Ask me about lua
 - 📫 How to reach me:
   - Discord: **AFCM#9333**
+  - Matrix: **@afcm:matrix.org**
   - Mastodon: **[@AFCM@mastodon.social](https://mastodon.social/web/accounts/106993231703412486)**
   - YouTube: **[AFCM](https://www.youtube.com/channel/UCK0mMW2SlIb7X5pKi00ZcYw)**
   - Reddit: **[u/AFCMS](https://www.reddit.com/user/AFCMS)**
