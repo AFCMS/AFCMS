@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [minetest](https://github.com/minetest/minetest) mods and [games](https://git.minetest.land/MineClone2/MineClone2)
-- 🌱 I’m currently learning C++ and JS
+- 🌱 I’m currently learning C++, Javascript and Go
 - 👯 I’m looking to collaborate on [minetest](https://github.com/minetest/minetest)
 - 💬 Ask me about lua
 - 📫 How to reach me:
