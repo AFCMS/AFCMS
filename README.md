@@ -18,4 +18,6 @@
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFCMS&layout=compact&hide_title=false)
 
+![trophies](https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4)
+
 [comment]: <> (- 🤔 I’m looking for help with ...)
