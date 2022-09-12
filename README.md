@@ -20,6 +20,6 @@
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4)
 
-<a href="https://app.daily.dev/AFCM"><img src="https://github.com/AFCMS/AFCMS/blob/master/devcard.svg" width="400" alt="AFCMS' Dev Card"/></a>
+<a href="https://app.daily.dev/AFCM"><img src="https://github.com/AFCMS/AFCMS/blob/master/devcard.svg" width="300" alt="AFCMS' Dev Card"/></a>
 
 [comment]: <> (- 🤔 I’m looking for help with ...)
