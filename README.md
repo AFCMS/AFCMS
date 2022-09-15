@@ -4,6 +4,16 @@ I am a young french student who loves computers :heart:
 
 ---
 
+#### ℹ️ &nbsp;Informations :
+
+- 👨‍💻 Contributor of [Minetest](https://github.com/minetest/minetest) and the [MineClone2](https://git.minetest.land/MineClone2/MineClone2) game
+- 📁 Web & Desktop Development 
+- 📗 Currently learning C++
+- 😄 Pronouns: he/him
+- 🌐 [My Website](https://afcms.github.io)
+
+---
+
 #### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -19,24 +29,16 @@ I am a young french student who loves computers :heart:
 
 ---
 
+#### 💻 &nbsp;Systems :
 
-- 🔭 I’m currently working on [minetest](https://github.com/minetest/minetest) mods and [games](https://git.minetest.land/MineClone2/MineClone2)
-- 🌱 I’m currently learning C++, Javascript and Go
-- 👯 I’m looking to collaborate on [minetest](https://github.com/minetest/minetest)
-- 💬 Ask me about lua
-- 📫 How to reach me:
-  - Discord: **AFCM#9333**
-  - Matrix: **@afcm:matrix.org**
-  - Mastodon: **[@AFCM@mastodon.social](https://mastodon.social/web/accounts/106993231703412486)**
-  - YouTube: **[AFCM](https://www.youtube.com/channel/UCK0mMW2SlIb7X5pKi00ZcYw)**
-  - Reddit: **[u/AFCMS](https://www.reddit.com/user/AFCMS)**
-  - Mail: **afcm.contact@gmail.com**
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am not funny 🤣
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+</p>
 
 ---
 
-#### Stats :
+#### 🕐 &nbsp;Stats :
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AFCMS&show_icons=true&include_all_commits=true&cache_seconds=3200)
 
