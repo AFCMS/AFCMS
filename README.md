@@ -7,7 +7,7 @@ I am a young french student who loves computers :heart:
 #### ℹ️ &nbsp;Informations :
 
 - 👨‍💻 Contributor of [Minetest](https://github.com/minetest/minetest) and the [MineClone2](https://git.minetest.land/MineClone2/MineClone2) game
-- 📁 Web & Desktop Development 
+- 📁 Web, Desktop & Game Development 
 - 📗 Currently learning C++
 - 😄 Pronouns: he/him
 - 🌐 [My Website](https://afcms.github.io)
