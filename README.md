@@ -40,9 +40,11 @@ I am a young french student who loves computers :heart:
 
 #### 🕐 &nbsp;Stats :
 
+<p>
 ![stats](https://github-readme-stats.vercel.app/api?username=AFCMS&show_icons=true&include_all_commits=true&cache_seconds=3200)
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFCMS&layout=compact&hide_title=false)
+</p>
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4)
 
