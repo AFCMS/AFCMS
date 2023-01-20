@@ -41,7 +41,7 @@ I am a young french student who loves computers :heart:
 #### 🕐 &nbsp;Stats :
 
 <img src="https://github-readme-stats-afcm.vercel.app/api?username=AFCMS&count_private=true&include_all_commits=true&show_icons=true" title="Stats" alt="Stats"/>
-<img src="https://github-readme-stats-afcm.vercel.app/api/top-langs/?username=AFCMS&layout=compact&hide_title=false" title="Languages" alt="Languages"/>
+<img src="https://github-readme-stats-afcm.vercel.app/api/top-langs/?username=AFCMS&layout=compact&hide_title=false&exclude_repo=fiverr_nanyanghuang_game,fiverr_nanyanguang_main_menu,fiverr_nanyanguang_creative,MCL2FORK" title="Languages" alt="Languages"/>
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4)
 
