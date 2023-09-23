@@ -9,7 +9,6 @@ I am a young french student who loves computers :heart:
 - 👨‍💻 Contributor of [Minetest](https://github.com/minetest/minetest) and the [MineClone2](https://git.minetest.land/MineClone2/MineClone2) game
 - 📁 Web, Desktop & Game Development 
 - 📗 Currently learning C++
-- 🌐 [My Website](https://afcms.github.io)
 
 ---
 
