@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a young french student who loves computers :heart:
+I am a french student who loves computers :heart:
 
 ---
 
