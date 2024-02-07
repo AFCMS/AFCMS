@@ -27,15 +27,6 @@ I am a french student who loves computers :heart:
 
 ---
 
-#### 💻 &nbsp;Systems :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-</p>
-
----
-
 #### 🕐 &nbsp;Stats :
 
 <img src="https://github-readme-stats-afcm.vercel.app/api?username=AFCMS&count_private=true&include_all_commits=true&show_icons=true" title="Stats" alt="Stats"/>
