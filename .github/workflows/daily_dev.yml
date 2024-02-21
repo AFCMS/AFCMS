@@ -17,6 +17,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@3.0.0
+        uses: dailydotdev/action-devcard@3.1.0
         with:
           user_id: ${{ secrets.USER_ID }}
