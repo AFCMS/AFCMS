@@ -34,4 +34,4 @@ I am a french student who loves computers :heart:
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4)
 
-<a href="https://app.daily.dev/AFCM"><img src="https://github.com/AFCMS/AFCMS/blob/master/devcard.png" alt="AFCMS' Dev Card"/></a>
+<a href="https://app.daily.dev/AFCM"><img src="https://github.com/AFCMS/AFCMS/blob/master/devcard.png" width="500" alt="AFCMS' Dev Card"/></a>
