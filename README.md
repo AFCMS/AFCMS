@@ -8,7 +8,7 @@ I am a french student who loves computers :heart:
 
 - 👨‍💻 Contributor of [Minetest](https://github.com/minetest/minetest) and the [MineClone2](https://git.minetest.land/MineClone2/MineClone2) game
 - 📁 Web, Desktop & Game Development 
-- 📗 Currently learning C++
+- 📗 Currently learning C++ and Rust
 
 ---
 
