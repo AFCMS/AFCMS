@@ -41,7 +41,7 @@ jobs:
           echo "Changes detected"
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Update stats images"
+          git diff-index --quiet HEAD || git commit -m "Update stats images"
           git push
         #else
         #  echo "No changes detected"
