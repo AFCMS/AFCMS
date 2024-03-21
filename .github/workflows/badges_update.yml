@@ -44,11 +44,11 @@ jobs:
     - name: Commit and push if changed
       #if: steps.diff.outputs.changed == 'true'
       run: |
-        git diff
+        git add readme_stats.png readme_stats_top_langs.png profile_trophies.png
+        git diff --staged
         if ! git diff --quiet; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add readme_stats.png readme_stats_top_langs.png profile_trophies.png
           git commit -m "Update stats image"
           git push
         fi
