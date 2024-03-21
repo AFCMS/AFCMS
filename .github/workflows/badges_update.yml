@@ -35,7 +35,7 @@ jobs:
     - name: Commit and push if changed
       run: |
         git add readme_stats.png readme_stats_top_langs.png profile_trophies.png
-        git diff --staged
+        # git diff --staged
         echo "=============================="
         if ! git diff --quiet; then
           echo "Changes detected"
