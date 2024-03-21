@@ -37,12 +37,12 @@ jobs:
         git add readme_stats.png readme_stats_top_langs.png profile_trophies.png
         # git diff --staged
         echo "=============================="
-        if ! git diff --quiet; then
+        #if ! git diff --quiet; then
           echo "Changes detected"
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Update stats images"
           git push
-        else
-          echo "No changes detected"
-        fi
+        #else
+        #  echo "No changes detected"
+        #fi
