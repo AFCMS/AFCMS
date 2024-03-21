@@ -26,6 +26,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Wait for 30 seconds
+      run: sleep 30s
+
     - name: Download images
       run: |
         wget -O readme_stats.svg  --timeout=20 "https://github-readme-stats-afcm.vercel.app/api?username=AFCMS&count_private=true&include_all_commits=true&show_icons=true"
