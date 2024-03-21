@@ -27,6 +27,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Wait for 30 seconds
+      if: github.event_name == 'schedule'
       run: sleep 30s
 
     - name: Download images
