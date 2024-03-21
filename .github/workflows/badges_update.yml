@@ -1,0 +1,49 @@
+---
+name: Badges Update
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  devcard:
+    name: daily.dev badge
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@3.1.0
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          type: wide
+  readme_stats:
+    name: GitHub Readme Stats
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download images
+      run: |
+        wget -O --timeout=20 readme_stats.png "https://github-readme-stats-afcm.vercel.app/api?username=AFCMS&count_private=true&include_all_commits=true&show_icons=true"
+        wget -O --timeout=20 readme_stats_top_langs.png "https://github-readme-stats-afcm.vercel.app/api/top-langs/?username=AFCMS&layout=compact&hide_title=false&exclude_repo=fiverr_nanyanghuang_game,fiverr_nanyanguang_main_menu,fiverr_nanyanguang_creative,MCL2FORK,test_amplication"
+        wget -O --timeout=20 profile_trophies.png "https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4"
+        
+
+    - name: Check for changes
+      id: diff
+      run: |
+        git diff
+        echo ::set-output name=changed::$(if git diff --exit-code; then echo "false"; else echo "true"; fi)
+    
+    - name: Commit and push if changed
+      if: steps.diff.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add readme_stats.png readme_stats_top_langs.png profile_trophies.png
+        git commit -m "Update stats image"
+        git push
