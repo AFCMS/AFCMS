@@ -28,13 +28,13 @@ jobs:
 
     - name: Download images
       run: |
-        wget -O readme_stats.png  --timeout=20 "https://github-readme-stats-afcm.vercel.app/api?username=AFCMS&count_private=true&include_all_commits=true&show_icons=true"
-        wget -O readme_stats_top_langs.png --timeout=20 "https://github-readme-stats-afcm.vercel.app/api/top-langs/?username=AFCMS&layout=compact&hide_title=false&exclude_repo=fiverr_nanyanghuang_game,fiverr_nanyanguang_main_menu,fiverr_nanyanguang_creative,MCL2FORK,test_amplication"
-        wget -O profile_trophies.png --timeout=20 "https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4"
+        wget -O readme_stats.svg  --timeout=20 "https://github-readme-stats-afcm.vercel.app/api?username=AFCMS&count_private=true&include_all_commits=true&show_icons=true"
+        wget -O readme_stats_top_langs.svg --timeout=20 "https://github-readme-stats-afcm.vercel.app/api/top-langs/?username=AFCMS&layout=compact&hide_title=false&exclude_repo=fiverr_nanyanghuang_game,fiverr_nanyanguang_main_menu,fiverr_nanyanguang_creative,MCL2FORK,test_amplication"
+        wget -O profile_trophies.svg --timeout=20 "https://github-profile-trophy.vercel.app/?username=AFCMS&row=2&column=4"
     
     - name: Commit and push if changed
       run: |
-        git add readme_stats.png readme_stats_top_langs.png profile_trophies.png
+        git add readme_stats.svg readme_stats_top_langs.svg profile_trophies.svg
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git diff-index --quiet HEAD || git commit -m "Update stats images"
