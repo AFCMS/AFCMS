@@ -7,7 +7,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "10 0 * * *"
 
 jobs:
   devcard:
@@ -26,10 +26,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Wait for 30 seconds
-      if: github.event_name == 'schedule'
-      run: sleep 30s
-
     - name: Download images
       run: |
         wget -O readme_stats.svg  --timeout=20 "https://github-readme-stats-afcm.vercel.app/api?username=AFCMS&count_private=true&include_all_commits=true&show_icons=true"
@@ -39,7 +35,7 @@ jobs:
     - name: Commit and push if changed
       run: |
         git add readme_stats.svg readme_stats_top_langs.svg profile_trophies.svg
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git diff-index --quiet HEAD || git commit -m "Update stats images"
         git push
