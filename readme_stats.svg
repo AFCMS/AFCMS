@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">AFCMS' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 96, Total Commits  : 8027, Total PRs: 109, Total Issues: 480, Contributed to (last year): 51</desc>
+        <desc id="descId">Total Stars Earned: 96, Total Commits  : 8027, Total PRs: 109, Total Issues: 480, Contributed to (last year): 50</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >51</text>
+      >50</text>
     </g>
   </g>
     </svg>
