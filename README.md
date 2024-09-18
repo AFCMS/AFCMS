@@ -10,6 +10,16 @@ I am a french student who loves computers :heart:
 - 📁 Web, Desktop & Game Development 
 - 📗 Currently learning C++ and Rust
 
+
+**🗨️ Want to talk? Reach me on Discord!** **_`@afcms`_**
+
+![status](https://api.statusbadges.me/badge/status/778997678428127313?simple=true)
+![](https://api.statusbadges.me/badge/playing/778997678428127313)
+
+[![spotify](https://api.statusbadges.me/badge/spotify/778997678428127313)](https://api.statusbadges.me/openspotify/778997678428127313)
+![vscode](https://api.statusbadges.me/badge/vscode/778997678428127313)
+![intellij](https://api.statusbadges.me/badge/intellij/778997678428127313)
+
 ---
 
 #### 🛠 &nbsp;Languages and Tools :
