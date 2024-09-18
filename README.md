@@ -10,6 +10,7 @@ I am a french student who loves computers :heart:
 - 📁 Web, Desktop & Game Development 
 - 📗 Currently learning C++ and Rust
 
+---
 
 **🗨️ Want to talk? Reach me on Discord!** **_`@afcms`_**
 
