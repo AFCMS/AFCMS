@@ -182,7 +182,7 @@
           y="0"
           width="19.08"
           height="8"
-          fill="#563d7c"
+          fill="#663399"
         />
       
       
@@ -224,7 +224,7 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#563d7c" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 3.63%
       </text>
