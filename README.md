@@ -53,4 +53,4 @@ I am a french student who loves computers :heart:
 
 ![trophies](profile_trophies.svg)
 
-<a href="https://app.daily.dev/afcm"><img src="https://github.com/AFCMS/AFCMS/blob/master/devcard.png" width="500" alt="AFCMS' Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/afcm"><img src="https://github.com/AFCMS/AFCMS/blob/master/devcard.png" width="500" alt="AFCMS' Dev Card"/></a> -->
