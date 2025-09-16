@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">AFCMS' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 126, Total Commits  : 11727, Total PRs: 149, Total Issues: 570, Contributed to (last year): 37</desc>
+        <desc id="descId">Total Stars Earned: 126, Total Commits  : 11728, Total PRs: 149, Total Issues: 570, Contributed to (last year): 37</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 42.172721154612056;
+        stroke-dashoffset: 42.172712592423196;
       }
     }
   
