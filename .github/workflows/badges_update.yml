@@ -13,6 +13,7 @@ jobs:
   devcard:
     name: daily.dev badge
     runs-on: ubuntu-latest
+    if: false
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@3.2.1
@@ -22,7 +23,7 @@ jobs:
   readme_stats:
     name: GitHub Readme Stats
     runs-on: ubuntu-latest
-    needs: devcard 
+    # needs: devcard 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v5
