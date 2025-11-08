@@ -19,7 +19,8 @@ I am a french student who loves computers :heart:
 
 [![spotify](https://api.statusbadges.me/badge/spotify/778997678428127313)](https://api.statusbadges.me/openspotify/778997678428127313)
 ![vscode](https://api.statusbadges.me/badge/vscode/778997678428127313)
-![intellij](https://api.statusbadges.me/badge/intellij/778997678428127313)
+
+<!-- ![intellij](https://api.statusbadges.me/badge/intellij/778997678428127313) -->
 
 ---
 
