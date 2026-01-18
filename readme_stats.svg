@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">AFCMS' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 135, Total Commits  : 11941, Total PRs: 176, Total Issues: 696, Contributed to (last year): 36</desc>
+        <title id="titleId">AFCMS' GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 135, Total Commits  : 11946, Total PRs: 176, Total Issues: 696, Contributed to (last year): 36</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.50440041038693;
+        stroke-dashoffset: 31.312665388881644;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
