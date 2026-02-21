@@ -6,7 +6,7 @@ I am a french student who loves computers :heart:
 
 #### ℹ️ &nbsp;Informations :
 
-- 👨‍💻 Contributor of [Luanti](https://github.com/minetest/minetest) (fka. Minetest) and the [VoxeLibre](https://git.minetest.land/VoxeLibre/VoxeLibre)  (fka. MineClone2) game
+- 👨‍💻 Contributor of [Luanti](https://github.com/luanti-org/luanti) (fka. Minetest) and the [VoxeLibre](https://git.minetest.land/VoxeLibre/VoxeLibre)  (fka. MineClone2) game
 - 📁 Web, Desktop & Game Development 
 - 📗 Currently learning C++, Rust and Unreal Engine
 
