@@ -39,7 +39,7 @@ I am a french student who loves computers :heart:
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -50,6 +50,6 @@ I am a french student who loves computers :heart:
 
 ![languages](readme_stats_top_langs.svg)
 
-![trophies](profile_trophies.svg)
+<!-- ![trophies](profile_trophies.svg) -->
 
 <!-- <a href="https://app.daily.dev/afcm"><img src="https://github.com/AFCMS/AFCMS/blob/master/devcard.png" width="500" alt="AFCMS' Dev Card"/></a> -->
